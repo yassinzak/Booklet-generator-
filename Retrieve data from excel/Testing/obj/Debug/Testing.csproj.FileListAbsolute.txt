@@ -1,0 +1,5 @@
+C:\Users\Sherif\documents\visual studio 2013\Projects\Retrieve data from excel\Testing\bin\Debug\Testing.dll
+C:\Users\Sherif\documents\visual studio 2013\Projects\Retrieve data from excel\Testing\bin\Debug\Testing.pdb
+C:\Users\Sherif\documents\visual studio 2013\Projects\Retrieve data from excel\Testing\obj\Debug\Testing.csprojResolveAssemblyReference.cache
+C:\Users\Sherif\documents\visual studio 2013\Projects\Retrieve data from excel\Testing\obj\Debug\Testing.dll
+C:\Users\Sherif\documents\visual studio 2013\Projects\Retrieve data from excel\Testing\obj\Debug\Testing.pdb
